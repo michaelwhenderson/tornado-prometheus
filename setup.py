@@ -10,7 +10,7 @@ tests_require = [
 
 setup(
     name='tornado-prometheus',
-    version='0.1.2',
+    version='0.1.3',
     description="HTTP metrics for a tornado application",
     long_description=open('README.rst').read(),
     keywords='prometheus tornado',
